@@ -1,6 +1,7 @@
 # Gameble
 
 App for chronically online people
+
 Feature:
 - Store basic user info and games they played
 - Update user's info
